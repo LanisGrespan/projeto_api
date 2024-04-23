@@ -51,3 +51,6 @@ Como Criar um Ambiente Virtual com o venv
 Passo 1: Abra o terminal ou prompt de comando do seu sistema operacional.
 
 Passo 2: Use o comando cd para navegar até o diretório raiz do seu projeto. Ex: cd /caminho/do/projeto
+
+Passo 3: Use o comando "python -m venv nome_do_ambiente" para criar um ambiente virtual com o nome desejado. 
+Substitua "nome_do_ambiente" no comando acima pelo nome que você escolher para o ambiente virtual.
