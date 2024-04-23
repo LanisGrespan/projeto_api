@@ -54,3 +54,14 @@ Passo 2: Use o comando cd para navegar até o diretório raiz do seu projeto. Ex
 
 Passo 3: Use o comando "python -m venv nome_do_ambiente" para criar um ambiente virtual com o nome desejado. 
 Substitua "nome_do_ambiente" no comando acima pelo nome que você escolher para o ambiente virtual.
+
+
+Ambiente virtual criado, agora vamos ativá-lo!
+
+    Dependendo do seu sistema operacional, o comando para ativar o ambiente virtual varia:
+
+No Windows: meu_ambiente_virtual\Scripts\activate
+
+No macOS e Linux: source meu_ambiente_virtual/bin/activate
+
+    Você verá o nome do ambiente virtual atual no prompt do terminal, indicando que o ambiente foi ativado com sucesso.
