@@ -43,3 +43,9 @@ O que é o virtualenv
     É um ambiente que permite isolar as bibliotecas e dependências de um projeto específico. Isso é útil para evitar conflitos 
 entre diferentes versões de pacotes e garantir que o projeto seja executado consistentemente, independentemente do ambiente de 
 desenvolvimento.
+
+Como Criar um Ambiente Virtual com o venv
+
+    O venv é uma biblioteca Python padrão, disponível nas versões 3.3 e posteriores. Para criar um ambiente virtual, siga os passos abaixo:
+
+Passo 1: Abra o terminal ou prompt de comando do seu sistema operacional.
