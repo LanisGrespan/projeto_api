@@ -80,3 +80,5 @@ Para instalar a biblioteca requests em um ambiente virtual: pip install requests
 Passo 2: Agora você pode criar seu projeto Python normalmente utilizando o comando "python -m venv meu_projeto". Não esqueça de verificar se o venv está ativado.
 
 Passo 3: Instale a biblioteca Flask, em seu ambiente virtual, com o comando "pip install flask"
+
+Passo 4: Crie um arquivo Python, como app.py, e colocar o seu código dentro.
