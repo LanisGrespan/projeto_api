@@ -65,3 +65,8 @@ No Windows: meu_ambiente_virtual\Scripts\activate
 No macOS e Linux: source meu_ambiente_virtual/bin/activate
 
     Você verá o nome do ambiente virtual atual no prompt do terminal, indicando que o ambiente foi ativado com sucesso.
+
+
+Como Desativar um Ambiente Virtual
+
+    Para desativar um ambiente virtual e retornar ao ambiente global do Python, basta digitar: deactivate
