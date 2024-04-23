@@ -32,3 +32,8 @@ Passo 6: No pesquisador do seu PC, procure o IDLE e abra-o, assim, você pode es
 Parabéns, agora o Python, o pip e o Idle já estão instalados em seu sistema Windows.
 
 
+
+
+
+Para garantir um ambiente de desenvolvimento limpo e organizado, o Python oferece uma ferramenta integrada chamada venv, 
+que permite criar ambientes virtuais isolados.
