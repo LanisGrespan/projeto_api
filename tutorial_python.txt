@@ -14,3 +14,5 @@ O processo de instalação é bem simples.
 Passo 1: Marque a opção "Use admin privileges" e "Add Python to PATH"
 
 Passo 2: Clique em "Install Now" e aguarde enquanto o instalador completa o processo de instalação.
+
+Passo 3: Para verificar se a instalação do Python foi bem-sucedida, pesquise no computador por "cmd" e clique duas vezes para abri-lo.
