@@ -70,3 +70,9 @@ No macOS e Linux: source meu_ambiente_virtual/bin/activate
 Como Desativar um Ambiente Virtual
 
     Para desativar um ambiente virtual e retornar ao ambiente global do Python, basta digitar: deactivate
+
+
+Passo a passo de como instalar Pacotes em um Ambiente Virtual:
+
+Passo 1: Use o comando "pip install nome_do_pacote" para instalar pacotes. 
+Para instalar a biblioteca requests em um ambiente virtual: pip install requests.
