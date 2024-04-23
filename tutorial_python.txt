@@ -1,0 +1,1 @@
+Para instalar o Python no seu sistema operacional Windows, você precisa baixar o instalador. Acesse o site oficial no link https://www.python.org/downloads/ e clique em download
