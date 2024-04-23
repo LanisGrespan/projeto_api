@@ -5,3 +5,10 @@ O que é
     Python é uma linguagem de programação de alto nível, simples e versátil, usada em diversas áreas, como web, ciência de dados e inteligência artificial. 
 As vantagens desta linguagem de programação explicam sua valorização no mercado. Além de ser fácil de aprender, apresenta sintaxe intuitiva, possui uma ampla comunidade ativa e 
 muitas bibliotecas disponíveis.
+
+Passo a passo fazer o download
+
+    Faça o download do instalador executável do Windows (32 ou 64 bits) e clique duas vezes nele para iniciar o assistente de instalação do python.
+O processo de instalação é bem simples.
+
+Passo 1: Marque a opção "Use admin privileges" e "Add Python to PATH"
