@@ -20,3 +20,8 @@ Passo 3: Para verificar se a instalação do Python foi bem-sucedida, pesquise n
 Passo 4: Digite o seguinte comando: $ python --version Python 3.11.3
 
 Isso irá retornar a versão do python que está instalada.
+
+Passo 5: O pip é o gerenciador de pacote do Python. Com ele você poderá adicionar novas funcionalidades ao seu Python. 
+Digite o seguinte comando: $ pip --version
+
+Isso irá retornar a versão do pip que está instalada em sua máquina.
