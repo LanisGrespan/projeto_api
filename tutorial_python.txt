@@ -76,3 +76,6 @@ Passo a passo de como instalar Pacotes em um Ambiente Virtual:
 
 Passo 1: Use o comando "pip install nome_do_pacote" para instalar pacotes. 
 Para instalar a biblioteca requests em um ambiente virtual: pip install requests.
+
+Passo 2: Agora você pode criar seu projeto Python normalmente utilizando o comando "python -m venv meu_projeto". Não esqueça de verificar se o venv está ativado
+
