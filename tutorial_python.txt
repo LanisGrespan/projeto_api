@@ -49,3 +49,5 @@ Como Criar um Ambiente Virtual com o venv
     O venv é uma biblioteca Python padrão, disponível nas versões 3.3 e posteriores. Para criar um ambiente virtual, siga os passos abaixo:
 
 Passo 1: Abra o terminal ou prompt de comando do seu sistema operacional.
+
+Passo 2: Use o comando cd para navegar até o diretório raiz do seu projeto. Ex: cd /caminho/do/projeto
