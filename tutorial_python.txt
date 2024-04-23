@@ -1,1 +1,7 @@
 Para instalar o Python no seu sistema operacional Windows, você precisa baixar o instalador. Acesse o site oficial no link https://www.python.org/downloads/ e clique em download
+
+O que é
+
+    Python é uma linguagem de programação de alto nível, simples e versátil, usada em diversas áreas, como web, ciência de dados e inteligência artificial. 
+As vantagens desta linguagem de programação explicam sua valorização no mercado. Além de ser fácil de aprender, apresenta sintaxe intuitiva, possui uma ampla comunidade ativa e 
+muitas bibliotecas disponíveis.
