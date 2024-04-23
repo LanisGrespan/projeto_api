@@ -12,3 +12,5 @@ Passo a passo fazer o download
 O processo de instalação é bem simples.
 
 Passo 1: Marque a opção "Use admin privileges" e "Add Python to PATH"
+
+Passo 2: Clique em "Install Now" e aguarde enquanto o instalador completa o processo de instalação.
