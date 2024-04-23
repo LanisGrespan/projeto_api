@@ -37,3 +37,9 @@ Parabéns, agora o Python, o pip e o Idle já estão instalados em seu sistema W
 
 Para garantir um ambiente de desenvolvimento limpo e organizado, o Python oferece uma ferramenta integrada chamada venv, 
 que permite criar ambientes virtuais isolados.
+
+O que é o virtualenv
+
+    É um ambiente que permite isolar as bibliotecas e dependências de um projeto específico. Isso é útil para evitar conflitos 
+entre diferentes versões de pacotes e garantir que o projeto seja executado consistentemente, independentemente do ambiente de 
+desenvolvimento.
