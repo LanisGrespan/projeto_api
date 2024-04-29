@@ -42,3 +42,5 @@ Passo a passo para configurar o git remote para sincronizar com o GitHub:
 
 9. Verifique seu Repositório no GitHub:
     - Volte para o GitHub e verifique se seus arquivos foram sincronizados corretamente.
+
+Com isso, seu repositório local estará configurado para sincronizar com o GitHub.
