@@ -16,3 +16,5 @@ Passo a passo para configurar o git remote para sincronizar com o GitHub:
    - Abra o terminal no seu computador.
    - Use o comando cd para navegar até o diretório do seu projeto.
     
+3. Inicialize o Repositório Git:
+   - Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init
