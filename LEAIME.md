@@ -36,3 +36,6 @@ Passo a passo para configurar o git remote para sincronizar com o GitHub:
    - Adicione seus arquivos ao commit usando o comando git add ...
    - Faça um commit dos arquivos usando o comando git commit -m "Mensagem do commit".
    - Envie os arquivos para o GitHub usando o comando: git push -u origin master
+
+8. Autenticação no GitHub:
+   - Se solicitado, insira seu nome de usuário e senha do GitHub
