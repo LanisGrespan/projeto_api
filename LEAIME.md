@@ -28,3 +28,6 @@ Passo a passo para configurar o git remote para sincronizar com o GitHub:
 5. Adicione o URL Remoto do GitHub:
    - No GitHub, encontre o URL do seu repositório e copie-o.
    - No terminal, adicione o URL remoto usando o comando: git remote add origin URL_do_seu_repositório_no_github
+
+6. Verifique o Repositório Remoto:
+   - Verifique se o repositório remoto foi adicionado corretamente usando o comando: git remote -v
