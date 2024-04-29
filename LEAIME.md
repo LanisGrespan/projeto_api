@@ -18,3 +18,9 @@ Passo a passo para configurar o git remote para sincronizar com o GitHub:
     
 3. Inicialize o Repositório Git:
    - Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init
+
+4. Configure as Credenciais do Git:
+   - Configure seu nome de usuário e endereço de e-mail no Git usando os comandos:
+     
+     git config --global user.name "Seu Nome"
+     git config --global user.email "seu@email.com"
