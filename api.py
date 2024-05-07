@@ -12,7 +12,7 @@ def index():
 def aleatorios(): # Função python
     import random
     a = random.randint(49, 100)
-    return jsonify({"status": 200, "message": "API de ALANIS_GRESPAN_FERNANDES"}) # Retorno
+    return jsonify({"status": 200, "message": a}) # Retorno
 
 @bp.route("/api/argumentos/<string:nome>")
 def argumentos(nome:str):
